@@ -64,7 +64,7 @@ const AboutPage = () => {
               <Target className="w-8 h-8 mr-4" />
               <h3 className="text-2xl font-bold text-white">Nuestra Misión</h3>
             </div>
-            <p className="text-gray-300">
+            <p className="text-gray-300 text-justify">
               Empoderar a las empresas con herramientas financieras inteligentes que simplifiquen la complejidad, impulsen la eficiencia y garanticen un crecimiento seguro y sostenible a través de la innovación tecnológica y un soporte excepcional.
             </p>
           </motion.div>
@@ -78,12 +78,12 @@ const AboutPage = () => {
               <Eye className="w-8 h-8 mr-4" />
               <h3 className="text-2xl font-bold text-white">Nuestra Visión</h3>
             </div>
-            <p className="text-gray-300">
+            <p className="text-gray-300 text-justify">
              Ser la plataforma de gestión financiera líder y de mayor confianza a nivel global, reconocida por nuestra innovación constante, seguridad de grado bancario y un compromiso inquebrantable con el éxito y la tranquilidad de nuestros clientes.
             </p>
           </motion.div>
         </div>
-        <div className="text-align">
+        <div className="text-center">
   <h2 className="text-3xl font-bold text-white mb-4">Conoce al Equipo</h2>
   <p className="text-lg text-gray-400 max-w-2xl mx-auto mb-12">
     Las mentes brillantes detrás de nuestra innovación.
